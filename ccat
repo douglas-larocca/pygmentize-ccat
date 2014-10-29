@@ -1,0 +1,1 @@
+pygmentize -l css -f terminal256 $1 
