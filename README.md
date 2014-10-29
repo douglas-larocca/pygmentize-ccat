@@ -4,4 +4,4 @@
     exit
     ansi2html < typescript > typescript.html
 
-(Open typescript.html in a browser)
+See [typescript.html](http://htmlpreview.github.io/?https://github.com/douglas-larocca/pygmentize-ccat/blob/master/typescript.html)
